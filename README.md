@@ -21,5 +21,5 @@ I analyze not only vulnerabilities that may occur within smart contracts but als
 
 I have won multiple awards in various competitions and have numerous projects and research achievements. Additionally, I have participated in several hackathons and have a variety of development stacks.
 
-Contact: parkttule0305@gmail.com \n
+Contact: parkttule0305@gmail.com<br/> 
 Researcher Information: https://p6rkdoye0n-eth.notion.site/p6rkdoye0n-98c9fc56e74347cc965c7e05456f4af5
