@@ -1,4 +1,4 @@
-# Ethernaut All Solve / Blockchain wargame write-up code
+## Ethernaut All Solve / Blockchain wargame write-up code
 
 ![alt text](image-1.png) 
 To study and research blockchain vulnerabilities, I share Ethernaut all solve code, a war game site created by openzeppelin.
@@ -11,7 +11,7 @@ The codes are based on the foundry framework, which makes more smart contract ca
 
 So, in order to use the code, foundry must be installed by default, and then run the code.
 
-### About Park DoYeon
+## About Park DoYeon
 
 ![alt text](image.png)
 
