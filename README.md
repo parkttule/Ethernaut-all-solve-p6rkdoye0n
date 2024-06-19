@@ -14,13 +14,14 @@ Researcher Information: https://p6rkdoye0n-eth.notion.site/p6rkdoye0n-98c9fc56e7
 ## Ethernaut All Solve / Blockchain wargame write-up code
 
 ![alt text](image-1.png) 
-To study and research blockchain vulnerabilities, I share Ethernaut all solve code, a war game site created by openzeppelin.
+To study and research blockchain vulnerabilities, I share [Ethernaut](https://ethernaut.openzeppelin.com/) all solve code, a war game site created by openzeppelin.
 
 I think it is a useful reference for many people when studying.
 
 ## Getting Started
+![alt text](image-2.png)
 
-The codes are based on the foundry framework, which makes more smart contract calls easy.
+The codes are based on the [foundry](https://book.getfoundry.sh/) framework, which makes more smart contract calls easy.
 
 So, in order to use the code, foundry must be installed by default, and then run the code.
 
